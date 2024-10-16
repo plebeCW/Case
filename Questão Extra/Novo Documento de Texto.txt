@@ -1,0 +1,32 @@
+Key Takeaways from Your Results:
+Main Effects:
+
+Primary Emotions:
+Joy (coef = 1.0767) and Love (coef = 0.7271) are strongly positively associated with higher emotion grades and are statistically significant (p < 0.05).
+Negative emotions like Anxiety (coef = -2.4986), Boredom (coef = -1.4149), Confusion (coef = -1.7688), Disgust (coef = -2.1400), and Fear (coef = -2.4857) all have significant negative associations with emotion grade.
+Weather:
+Rainy (coef = -0.0917, p = 0.017) and Hot (coef = -0.1001, p = 0.009) weather seem to slightly decrease emotion grades. These effects are statistically significant.
+Other weather types like Sunny and Cold don't have significant individual effects.
+Time of Day:
+The effect of time of day on its own is not particularly significant, as Morning (p = 0.101), Evening (p = 0.197), and Night (p = 0.313) all have p-values greater than 0.05.
+Interaction Effects:
+
+Joyful Mood in Sunny Weather:
+The combination of joy × sunny weather has a positive coefficient (0.0215) but is not statistically significant (p = 0.437). This suggests that while being joyful on a sunny day might slightly increase the grade, the effect isn’t strong enough to be significant.
+Primary Emotions and Time of Day:
+Joy × morning has a positive coefficient (0.0164), but it is not significant (p = 0.404).
+Relief × evening (coef = -0.0568, p = 0.019) has a negative and significant interaction, meaning that the feeling of relief in the evening tends to decrease the emotion grade.
+Trust × night (coef = -0.0565, p = 0.006) is also negative and significant, suggesting that trust in the night lowers emotion grades.
+Weather and Time of Day:
+Sunny weather × night (coef = 0.0427, p = 0.011) has a positive and significant effect on emotion grade, meaning people tend to have higher emotion grades on sunny nights.
+Snowy weather × night (coef = 0.0482, p = 0.006) is also significant and positive, indicating that snowy nights are associated with higher emotion grades.
+Key Combinations to Focus On:
+Positive and Significant Combinations:
+
+Anticipation × sunny weather: (coef = 0.0651, p = 0.025) means that anticipation on a sunny day is likely to increase emotion grade.
+Relief × sunny weather: (coef = 0.0667, p = 0.026) shows a positive effect of relief on a sunny day.
+Snowy weather × night: (coef = 0.0482, p = 0.006) indicates that snowy nights are associated with higher emotion grades.
+Sunny weather × night: (coef = 0.0427, p = 0.011) shows that sunny nights also lead to higher grades.
+Negative and Significant Combinations:
+
+Relief × evening: (coef = -0.0568, p = 0.019) means that feeling relief in the evening tends to lower emotion grades.

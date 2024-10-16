@@ -1,0 +1,1 @@
+DELETE FROM users WHERE approved_date IS NULL;
